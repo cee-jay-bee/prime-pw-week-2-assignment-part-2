@@ -136,7 +136,7 @@ let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
-  // this only sets colorOne to 'purple, so we should also add colorTwo = 'purple' to our conditional
+  // this only sets colorOne to 'purple, so we should also add colorTwo = 'purple'; to our conditional
   colorOne = 'purple';
 }
 */
